@@ -206,7 +206,7 @@
 }
 
 #searchYt > i {
-  transform: translateX(-1px);
+  transform: translateX(0px);
 }
 
 #searchYt {
