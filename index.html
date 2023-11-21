@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga | _CodeCrafters 😊</title>
+    <link rel="shortcut icon" href="src/logo/logo_brand.png" type="image/x-icon">
+    <link rel="stylesheet" href="Bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="src/font/icons/bootstrap-icons.min.css">
+    <script src="js/code.jquery.com_jquery-3.7.0.min.js"></script>
+</head>
+
+<body data-bs-theme="dark" class="scroll_beauty">
+
+    <!-- Navigation Bar -->
+
+    <nav class="navbar bg-body-tertiary border-bottom" style="height: 50px;">
+        <div class="container-fluid d-flex justify-content-between">
+            <a class="navbar-brand" href="#">
+                <img src="src/logo/logo_brand.png" alt="Logo" width="30" height="30"
+                    class="d-inline-block align-text-top rounded-circle me-2">
+                CodeCrafters
+                <span class="badge rounded-pill text-bg-info">BCA | Yoga</span>
+            </a>
+            <button class="btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#code_crafters_settings"
+                aria-controls="code_crafters_settings">
+                <i class="bi bi-gear-wide-connected"></i>
+            </button>
+        </div>
+    </nav>
+
+    <main class="container pt-4">
+        <div class="container rounded-1 p-3 flavour" style="min-height: 85vh;">
+            <h5 class="text-center display-4 text-warning" style="height: 13%;">Syllabus</h5>
+            <div id="syllabus_content" class="satisfy px-3 py-1" style="height: 87%;">
+                <!-- Iteration Starts Here -->
+                <div class="container-fluid">
+                    <h1>Module 1 :</h1>
+                    <p class="basic text-info">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis
+                        voluptas placeat ut
+                        voluptatibus accusamus quis itaque excepturi culpa impedit recusandae nostrum temporibus debitis
+                        eligendi consectetur numquam fugit neque, veniam exercitationem.
+                    </p>
+                    <div class="tags container-fluid d-flex basic row">
+                        <div class="col-2">
+                            <h5 class="text-success" style="line-height: 15px;">Tags : </h5>
+                        </div>
+                        <div class="col-10">
+                            <button class="badge text-bg-info mx-2 topicLink">Warning</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <!-- Content Display Section -->
+
+    <div class="offcanvas offcanvas-bottom" style="height: 100vh;" tabindex="-1" id="information_topic"
+        aria-labelledby="information_topicLabel">
+        <div class="offcanvas-header border-bottom">
+            <h5 class="offcanvas-title" id="information_topicLabel">topic_title</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body scroll_beauty">
+            <section class="container" id="content">
+                <div class="p-4 p-md-5 position-relative mb-4 rounded text-body-emphasis bg-body-secondary">
+                    <div class="col-lg-6 px-0">
+                        <h1 class="display-4 fst-italic dance" id="info_title">Title of a longer featured blog post</h1>
+                    </div>
+                    <a class="btn btn-danger rounded-circle" id="searchYt" title="Youtube search" target="_blank"
+                        href="https://www.youtube.com/results?search_query=hello">
+                        <i class="bi bi-youtube"></i>
+                    </a>
+                    <a class="btn btn-success rounded-circle" id="searchGgl" title="Google search" target="_blank"
+                        href="https://www.google.com/search?q=hello">
+                        <i class="bi bi-google"></i>
+                    </a>
+                </div>
+                <!-- https://source.unsplash.com/random/200x250/?physical%20sports  -> unsplash image link random -->
+                <div class="row g-5">
+                    <div class="col-md-8">
+                        <h3 class="pb-4 mb-4 fst-italic border-bottom">
+                            As per my reseach
+                        </h3>
+
+                        <article id="desc_topic" class="blog-post p-3 rounded-2" style="background: #3a3a3a;">
+
+                        </article>
+
+                        <article class="blog-post rounded-2 border p-3">
+                            <h2 class="display-5 link-body-emphasis mb-3 text-info">Some Facts About <span id="topicFact"></span></h2>
+                            <ul id="facts">
+                                <li>First list item</li>
+                                <li>Second list item with a longer description</li>
+                                <li>Third list item to close it out</li>
+                            </ul>
+                        </article>
+                    </div>
+
+                    <!-- OffWrapper -->
+
+                    <div class="col-md-4">
+                        <div class="position-sticky" style="top: 2rem;">
+                            <div class="p-4 mb-3 bg-body-tertiary rounded">
+                                <h4 class="fst-italic">About</h4>
+                                <p class="mb-0">
+                                    See
+                                    <span class="legendCodeCrafter"></span>,
+                                    <span id="desc-sm">
+                                        <!-- Small description of the topic -->
+
+                                    </span>
+                                </p>
+                            </div>
+
+                            <div>
+                                <h4 class="fst-italic">Related Topics</h4>
+                                <ul class="list-unstyled" id="related_topics">
+                                    <!-- Related topics cards -->
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+    </div>
+
+
+    <!-- Settings -->
+
+    <div class="offcanvas offcanvas-bottom h-100" tabindex="-1" id="code_crafters_settings"
+        aria-labelledby="code_crafters_settingsLabel">
+        <div class="offcanvas-header border-bottom">
+            <h5 class="offcanvas-title dance" style="font-size: 30px; line-height: 20px;"
+                id="code_crafters_settingsLabel">
+                Hii <span class="legendCodeCrafter fst-italic text-capitalize">User</span>, customize as per your
+                prefrence 😊.
+            </h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body small">
+            <div class="container-fluid">
+                <button class="btn btn-light" id="code_crafters_theme" isTheme="1">
+                    Light
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- settings js -->
+    <script>
+        function checkTheme() {
+            let theme = $("#code_crafters_theme").attr("isTheme");
+            switch (theme) {
+                case "0":
+                    $("body").attr("data-bs-theme", "dark");
+                    $("#code_crafters_theme").attr("isTheme", "1");
+                    $("#code_crafters_theme").text("Light");
+                    $("#code_crafters_theme").removeClass("btn-dark");
+                    $("#code_crafters_theme").addClass("btn-light");
+                    break;
+                case "1":
+                    $("body").attr("data-bs-theme", "light");
+                    $("#code_crafters_theme").attr("isTheme", "0");
+                    $("#code_crafters_theme").text("Dark");
+                    $("#code_crafters_theme").addClass("btn-dark");
+                    $("#code_crafters_theme").removeClass("btn-light");
+                    break;
+
+                default:
+                    break;
+            }
+        }
+        $("#code_crafters_theme").click(function () {
+            checkTheme();
+        })
+    </script>
+
+    <!-- Startup Utilities -->
+
+    <div class="modal fade" data-bs-backdrop="static" id="code_crafters_init_name" aria-hidden="true"
+        aria-labelledby="code_crafters_init_nameLabel" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="code_crafters_init_nameLabel">_CodeCrafters</h1>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="codecrafterName" class="col-form-label">Your Name <span
+                                    class="ms-2 text-secondary">(**only first name)</span></label>
+                            <input type="text" class="form-control" id="codecrafterName">
+                        </div>
+                        <div class="mb-3">
+                            <label for="codecrafterPasswd" class="col-form-label">Your Roll Number <span
+                                    class="ms-2 text-secondary">(**only middle number {BCA / middle / 23})</span></label>
+                            <input type="password" class="form-control" id="codecrafterPasswd">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-danger disabled" data-bs-dismiss="modal" aria-label="Close"
+                        style="transition: .5s ease;" id="register_CodeCrafter">
+                        Enter in _CodeCrafters
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="btn btn-primary d-none" id="auth" data-bs-target="#code_crafters_init_name"
+        data-bs-toggle="modal"></button>
+
+</body>
+
+<script src="Bootstrap/js/bootstrap.bundle.min.js"></script>
+<script type="application/javascript" src="js/script.js"></script>
+
+</html>

@@ -1,0 +1,28 @@
+{
+    "valid_users": [
+        {
+            "user": "khushi",
+            "password": 40046
+        },
+        {
+            "user": "shubhangi",
+            "password": 40020
+        },
+        {
+            "user": "piyush",
+            "password": 40517
+        },
+        {
+            "user": "akshay",
+            "password": 40504
+        },
+        {
+            "user": "salman",
+            "password": 40547
+        },
+        {
+            "user": "ronit",
+            "password": 40532
+        }
+    ]
+}

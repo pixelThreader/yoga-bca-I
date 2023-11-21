@@ -1,0 +1,76 @@
+{
+    "syllabus": "Yoga",
+    "modules": [
+        {
+            "serialNumber": 1,
+            "moduleNumber": "Module 1",
+            "topic": "Origin of yoga, definition and scope of yoga, limitations and misconceptions, importance of yoga in physical education and other fields",
+            "tags": [
+                "Origin of Yoga",
+                "Yoga",
+                "Scope",
+                "Physical Education"
+            ]
+        },
+        {
+            "serialNumber": 2,
+            "moduleNumber": "Module 2",
+            "topic": "Historical development of yoga in India, Types of yoga- Hath yoga, Mantra yoga, Bhakti yoga, Karma yoga, Laya yoga, Jnana yoga, Raj yoga",
+            "tags": [
+                "Historical Development",
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ]
+        },
+        {
+            "serialNumber": 3,
+            "moduleNumber": "Module 3",
+            "topic": "Patanjali yoga sutras-Yama, niyama, asana, pranayama, pratyahar, Benefits and utilities of these. Astanga yoga-definition, objective, dharana, dhyana, samadhi & their psychological impact",
+            "tags": [
+                "Patanjali Yoga Sutras",
+                "Yama",
+                "Niyama",
+                "Asanas",
+                "Pranayama",
+                "Pratyahara",
+                "Astanga Yoga",
+                "Dharana",
+                "Dhyana",
+                "Samadhi",
+                "Psychological Impact"
+            ]
+        },
+        {
+            "serialNumber": 4,
+            "moduleNumber": "Module 4",
+            "topic": "Asanas : types, importance of asanas in special reference to physical education & sports. Differentiate between asanas and exercise",
+            "tags": [
+                "Asanas",
+                "Types of Asanas",
+                "Physical Education",
+                "Sports",
+                "Exercise"
+            ]
+        },
+        {
+            "serialNumber": 5,
+            "moduleNumber": "Module 5",
+            "topic": "Pranayama and the importance of pranayama in special reference to physical effects. Importance of vegetarianism in yogic diet, bandhas, mudras, and their physiological effects.",
+            "tags": [
+                "Pranayama",
+                "Physical Effects",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Bandhas",
+                "Mudras",
+                "Physiological Effects"
+            ]
+        }
+    ]
+}

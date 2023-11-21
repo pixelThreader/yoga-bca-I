@@ -1,0 +1,761 @@
+{
+    "resource": [
+        {
+            "tag": "Origin of Yoga",
+            "sno": 1,
+            "small_desc": "Yoga's ancient roots in India and its aim to unite body, mind, and spirit.",
+            "large_desc": "<p>Yoga's origin in ancient India, dating back over 5000 years, is deeply rooted in the pursuit of harmony between the physical, mental, and spiritual realms. This topic explores the historical development of yoga, its definition, and its profound scope in uniting individuals with universal consciousness.</p>",
+            "image_list": [
+                "yoga_origin.jpg",
+                "yoga_union.jpg"
+            ],
+            "related": [
+                "Yoga",
+                "Scope",
+                "Physical Education"
+            ],
+            "module_no": [
+                1
+            ],
+            "facts": [
+                "The Rig Veda mentions the word 'yoga' for the first time.",
+                "Yoga promotes physical purity and mental tranquility.",
+                "It's not just exercise; it's a science of consciousness development."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Yoga",
+            "sno": 2,
+            "small_desc": "Understanding the meaning and scope of yoga as the union of body, mind, and spirit.",
+            "large_desc": "<p>This topic delves into the essence of yoga by exploring its Sanskrit root 'Yuj,' which means 'to unite.' Yoga aims to create a profound union between the individual's body, mind, and spirit and their connection with the universal consciousness.</p>",
+            "image_list": [
+                "yoga_meaning.jpg",
+                "union.jpg"
+            ],
+            "related": [
+                "Origin of Yoga",
+                "Scope",
+                "Physical Education"
+            ],
+            "module_no": [
+                1
+            ],
+            "facts": [
+                "Yoga is the science of developing a person's consciousness.",
+                "It unifies physical, mental, intellectual, and spiritual aspects.",
+                "Yoga is the path to connecting the individual soul with the divine soul."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Scope",
+            "sno": 3,
+            "small_desc": "Exploring the vast scope of yoga in unifying the individual with universal consciousness.",
+            "large_desc": "<p>Yoga's scope extends far beyond physical postures. It is a holistic practice that aims to unite the individual with the universal consciousness. This topic delves into the profound journey of self-realization and spiritual growth through yoga.</p>",
+            "image_list": [
+                "yoga_scope.jpg",
+                "consciousness.jpg"
+            ],
+            "related": [
+                "Origin of Yoga",
+                "Yoga",
+                "Physical Education"
+            ],
+            "module_no": [
+                1
+            ],
+            "facts": [
+                "Yoga's aim is to unite the individual with the absolute or divine soul.",
+                "It encompasses physical, mental, intellectual, and spiritual aspects.",
+                "Yoga is the science of consciousness development."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Physical Education",
+            "sno": 4,
+            "small_desc": "Physical education cultivates lifelong fitness, teamwork, and wellness through activities, promoting physical and mental health while fostering motor skills and a balanced, active lifestyle.",
+            "large_desc": "<p>Yoga is not just a practice for spiritual growth; it plays a significant role in physical education. This topic highlights how yoga enhances physical fitness, flexibility, and overall well-being. It also explores its applications in sports and physical training.</p>",
+            "image_list": [
+                "yoga_physical_education.jpg",
+                "fitness.jpg"
+            ],
+            "related": [
+                "Asanas",
+                "Types of Asanas",
+                "Sports",
+                "Exercise"
+            ],
+            "module_no": [
+                4
+            ],
+            "facts": [
+                "Yoga asanas improve flexibility, strength, and balance.",
+                "They differ from regular exercises through mindfulness and breath control.",
+                "Yoga prevents injuries and enhances athletic performance."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Historical Development",
+            "sno": 5,
+            "small_desc": "Exploring the historical evolution of yoga as a profound practice in India.",
+            "large_desc": "<p>This topic traces the historical development of yoga in India, from its ancient roots to its modern-day significance. It highlights the evolution of yoga as a profound and diverse practice.</p>",
+            "image_list": [
+                "yoga_history.jpg",
+                "yoga_evolution.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Yoga has a rich history in India dating back thousands of years.",
+                "Different yoga types cater to diverse spiritual and physical needs.",
+                "Hatha yoga focuses on physical postures and breath control."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Types of Yoga",
+            "sno": 6,
+            "small_desc": "An overview of the various paths of yoga, including Hatha, Mantra, Bhakti, Karma, and more.",
+            "large_desc": "<p>This topic introduces the diverse paths of yoga, each catering to different aspects of the human experience. It covers Hatha, Mantra, Bhakti, Karma, Laya, Jnana, and Raja yoga, providing insights into their unique practices and goals.</p>",
+            "image_list": [
+                "yoga_types.jpg",
+                "yoga_paths.jpg"
+            ],
+            "related": [
+                "Historical Development",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Different paths of yoga offer diverse approaches to spiritual growth.",
+                "Hatha yoga focuses on physical postures and breath control.",
+                "Bhakti yoga emphasizes devotion and love for the divine."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Hatha Yoga",
+            "sno": 7,
+            "small_desc": "Understanding Hatha yoga, which emphasizes physical postures and breath control.",
+            "large_desc": "<p>Hatha yoga is one of the most popular forms of yoga, known for its focus on physical postures (asanas) and breath control (pranayama). This topic explores the principles and benefits of Hatha yoga.</p>",
+            "image_list": [
+                "hatha_yoga.jpg",
+                "hatha_asanas.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga",
+                "Asanas",
+                "Physical Education"
+            ],
+            "module_no": [
+                2,
+                4
+            ],
+            "facts": [
+                "Hatha yoga is a physical form of yoga that enhances flexibility and strength.",
+                "It involves various asanas and pranayama techniques.",
+                "Regular practice of Hatha yoga promotes physical well-being."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Mantra Yoga",
+            "sno": 8,
+            "small_desc": "Exploring Mantra yoga, which focuses on the repetition of sacred sounds and words.",
+            "large_desc": "<p>Mantra yoga is a path of yoga that centers around the repetition of sacred sounds, words, or phrases (mantras). This topic delves into the significance of mantra yoga and its transformative power through sound vibrations.</p>",
+            "image_list": [
+                "mantra_yoga.jpg",
+                "mantras.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Mantra yoga harnesses the power of sound vibrations for spiritual growth.",
+                "Repetition of mantras leads to inner transformation and meditation.",
+                "It is a path of devotion and connection with the divine."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Bhakti Yoga",
+            "sno": 9,
+            "small_desc": "Understanding Bhakti yoga, the path of devotion and love for the divine.",
+            "large_desc": "<p>Bhakti yoga is a path of devotion and unwavering love for the divine. This topic explores the principles of Bhakti yoga and how it fosters a deep connection with the divine through devotion and surrender.</p>",
+            "image_list": [
+                "bhakti_yoga.jpg",
+                "divine_love.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Bhakti yoga emphasizes devotion and surrender to the divine.",
+                "It is characterized by unwavering love and deep connection.",
+                "Devotees seek union with the divine through love and devotion."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Karma Yoga",
+            "sno": 10,
+            "small_desc": "Exploring Karma yoga, the path of selfless action and service.",
+            "large_desc": "<p>Karma yoga is a path of selfless action and service to others. This topic discusses the principles of Karma yoga and how it leads to spiritual growth through detached action and service.</p>",
+            "image_list": [
+                "karma_yoga.jpg",
+                "selfless_service.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Laya Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Karma yoga emphasizes selfless action and service to others.",
+                "Detached action leads to spiritual growth and self-realization.",
+                "It is a path of service and making a positive impact on the world."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Laya Yoga",
+            "sno": 11,
+            "small_desc": "Understanding Laya yoga, a path of dissolution and merging with the divine.",
+            "large_desc": "<p>Laya yoga is a profound path that involves dissolution and merging with the divine. This topic explores the principles of Laya yoga and how it leads to spiritual union through inner dissolution.</p>",
+            "image_list": [
+                "laya_yoga.jpg",
+                "divine_union.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Jnana Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Laya yoga involves dissolving the individual self into the divine.",
+                "It leads to spiritual union through inner dissolution.",
+                "Laya yoga is a path of deep inner transformation and realization."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Jnana Yoga",
+            "sno": 12,
+            "small_desc": "Exploring Jnana yoga, the path of wisdom and self-realization.",
+            "large_desc": "<p>Jnana yoga is a path of wisdom and self-realization. This topic discusses the principles of Jnana yoga and how it leads to self-discovery and the realization of one's true nature.</p>",
+            "image_list": [
+                "jnana_yoga.jpg",
+                "self-realization.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Raja Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Jnana yoga is the path of wisdom and self-realization.",
+                "It involves self-inquiry and the quest for true knowledge.",
+                "Jnana yoga leads to the discovery of one's true nature beyond the ego."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Raja Yoga",
+            "sno": 13,
+            "small_desc": "Understanding Raja yoga, the royal path of meditation and self-control.",
+            "large_desc": "<p>Raja yoga is often referred to as the royal path of yoga. This topic explores the principles of Raja yoga, which include practices like Dharana, Dhyana, and Samadhi, leading to profound inner transformation and meditation.</p>",
+            "image_list": [
+                "raja_yoga.jpg",
+                "royal_path.jpg"
+            ],
+            "related": [
+                "Types of Yoga",
+                "Hatha Yoga",
+                "Mantra Yoga",
+                "Bhakti Yoga",
+                "Karma Yoga",
+                "Laya Yoga",
+                "Jnana Yoga"
+            ],
+            "module_no": [
+                2
+            ],
+            "facts": [
+                "Raja yoga emphasizes meditation and self-control.",
+                "It includes practices like Dharana, Dhyana, and Samadhi.",
+                "Raja yoga leads to profound inner transformation and self-realization."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Patanjali Yoga Sutras",
+            "sno": 14,
+            "small_desc": "Exploring Patanjali's Yoga Sutras and their impact on yogic philosophy.",
+            "large_desc": "<p>Patanjali's Yoga Sutras are a foundational text for understanding yoga philosophy. This topic delves into the key aspects of the Sutras, including Yama, Niyama, Asana, Pranayama, and Pratyahara, and their impact on the yogic journey.</p>",
+            "image_list": [
+                "patanjali_yoga_sutras.jpg",
+                "sutras_philosophy.jpg"
+            ],
+            "related": [
+                "Yama",
+                "Niyama",
+                "Asana",
+                "Pranayama",
+                "Pratyahara",
+                "Astanga Yoga",
+                "Dharana",
+                "Dhyana",
+                "Samadhi",
+                "Psychological Impact"
+            ],
+            "module_no": [
+                3
+            ],
+            "facts": [
+                "Patanjali's Yoga Sutras provide profound insights into yogic philosophy.",
+                "Yama and Niyama are ethical guidelines for a yogic lifestyle.",
+                "Pranayama enhances energy and mental focus."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Yama",
+            "sno": 15,
+            "small_desc": "Understanding Yama, the ethical principles of yoga.",
+            "large_desc": "<p>Yama is the first limb of Patanjali's Yoga Sutras, focusing on ethical principles and moral values. This topic explores the five Yamas and their significance in leading a righteous life.</p>",
+            "image_list": [
+                "yama_ethics.jpg",
+                "ethical_living.jpg"
+            ],
+            "related": [
+                "Patanjali Yoga Sutras",
+                "Niyama",
+                "Asana",
+                "Pranayama",
+                "Pratyahara",
+                "Psychological Impact"
+            ],
+            "module_no": [
+                3
+            ],
+            "facts": [
+                "Yama consists of five ethical principles for righteous living.",
+                "The Yamas include Ahimsa (non-violence) and Satya (truthfulness).",
+                "Practicing Yama leads to a more harmonious and ethical life."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Niyama",
+            "sno": 16,
+            "small_desc": "Exploring Niyama, the principles of self-discipline and inner observance.",
+            "large_desc": "<p>Niyama is the second limb of Patanjali's Yoga Sutras, focusing on self-discipline and inner observance. This topic delves into the five Niyamas and their importance in cultivating inner strength and harmony.</p>",
+            "image_list": [
+                "niyama_discipline.jpg",
+                "inner_observance.jpg"
+            ],
+            "related": [
+                "Patanjali Yoga Sutras",
+                "Yama",
+                "Asana",
+                "Pranayama",
+                "Pratyahara",
+                "Psychological Impact"
+            ],
+            "module_no": [
+                3
+            ],
+            "facts": [
+                "Niyama comprises five principles for inner observance and self-discipline.",
+                "The Niyamas include Saucha (cleanliness) and Santosha (contentment).",
+                "Practicing Niyama fosters inner strength and spiritual growth."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Asanas",
+            "sno": 17,
+            "small_desc": "Understanding the practice of Asanas and their importance in physical health and well-being.",
+            "large_desc": "<p>Asanas are physical postures in yoga that promote flexibility, strength, and balance. This topic explores various types of asanas and their significance in physical education, sports, and overall well-being.</p>",
+            "image_list": [
+                "yoga_asanas.jpg",
+                "physical_fitness.jpg"
+            ],
+            "related": [
+                "Types of Asanas",
+                "Physical Education",
+                "Sports",
+                "Exercise"
+            ],
+            "module_no": [
+                4
+            ],
+            "facts": [
+                "Yoga asanas improve flexibility, strength, and balance.",
+                "They differ from regular exercises through mindfulness and breath control.",
+                "Yoga prevents injuries and enhances athletic performance."
+            ],
+            "asana": 1,
+            "diet": 0
+        },
+        {
+            "tag": "Types of Asanas",
+            "sno": 18,
+            "small_desc": "An overview of different types of yoga postures and their benefits.",
+            "large_desc": "<p>This topic provides an overview of various types of asanas and their unique benefits. It highlights how different asanas target specific areas of the body and mind, contributing to overall health and well-being.</p>",
+            "image_list": [
+                "asana_types.jpg",
+                "health_benefits.jpg"
+            ],
+            "related": [
+                "Asanas",
+                "Physical Education",
+                "Sports",
+                "Exercise"
+            ],
+            "module_no": [
+                4
+            ],
+            "facts": [
+                "Different types of asanas target various muscle groups and promote flexibility.",
+                "Each asana has specific physical and mental benefits.",
+                "Regular practice of asanas enhances overall health and well-being."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Sports",
+            "sno": 19,
+            "small_desc": "The application of yoga in sports and its benefits for athletes.",
+            "large_desc": "<p>Yoga's benefits extend to the world of sports. This topic explores how yoga can enhance athletic performance, prevent injuries, and improve overall fitness. It also discusses the integration of yoga into sports training.</p>",
+            "image_list": [
+                "yoga_sports.jpg",
+                "athletic_performance.jpg"
+            ],
+            "related": [
+                "Physical Education",
+                "Asanas",
+                "Types of Asanas",
+                "Exercise"
+            ],
+            "module_no": [
+                4
+            ],
+            "facts": [
+                "Yoga enhances flexibility, strength, and focus, benefiting athletes.",
+                "It is used to prevent injuries and improve recovery after sports activities.",
+                "Many professional athletes incorporate yoga into their training routines."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Exercise",
+            "sno": 20,
+            "small_desc": "Distinguishing between yoga asanas and conventional exercises.",
+            "large_desc": "<p>This topic clarifies the differences between yoga asanas and traditional exercises. It highlights how yoga focuses on mindfulness, breath control, and holistic well-being, setting it apart from regular physical exercises.</p>",
+            "image_list": [
+                "yoga_vs_exercise.jpg",
+                "mindfulness.jpg"
+            ],
+            "related": [
+                "Asanas",
+                "Types of Asanas",
+                "Physical Education",
+                "Sports"
+            ],
+            "module_no": [
+                4
+            ],
+            "facts": [
+                "Yoga emphasizes mindfulness, breath control, and holistic well-being.",
+                "Regular exercises primarily focus on physical fitness.",
+                "Yoga asanas contribute to physical and mental health in a balanced manner."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Pranayama",
+            "sno": 21,
+            "small_desc": "Understanding Pranayama and its importance in regulating breath and energy.",
+            "large_desc": "<p>Pranayama is the practice of breath control in yoga. This topic explores the significance of pranayama in maintaining physical health, mental clarity, and spiritual growth. It also discusses various pranayama techniques.</p>",
+            "image_list": [
+                "pranayama.jpg",
+                "breath_control.jpg"
+            ],
+            "related": [
+                "Physical Effects",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Bandhas",
+                "Mudras",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Pranayama enhances respiratory health and mental focus.",
+                "It regulates energy flow (prana) in the body.",
+                "Pranayama is a vital aspect of yoga practice for overall well-being."
+            ],
+            "asana": 1,
+            "diet": 0
+        },
+        {
+            "tag": "Physical Effects",
+            "sno": 22,
+            "small_desc": "Exploring the physical benefits of yoga and pranayama.",
+            "large_desc": "<p>Yoga and pranayama have profound physical effects on the body. This topic discusses how these practices enhance physical well-being, improve respiratory health, and promote overall fitness.</p>",
+            "image_list": [
+                "physical_effects.jpg",
+                "respiratory_health.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Bandhas",
+                "Mudras",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Yoga asanas improve flexibility, strength, and balance.",
+                "Pranayama enhances respiratory health and mental clarity.",
+                "Regular yoga practice contributes to overall physical fitness."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Vegetarianism",
+            "sno": 23,
+            "small_desc": "Exploring the importance of vegetarianism in the yogic diet.",
+            "large_desc": "<p>Vegetarianism is often associated with the yogic diet for ethical and health reasons. This topic discusses why many yogis choose a vegetarian diet and how it aligns with the principles of yoga.</p>",
+            "image_list": [
+                "vegetarianism.jpg",
+                "healthy_diet.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Physical Effects",
+                "Yogic Diet",
+                "Bandhas",
+                "Mudras",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Many yogis follow a vegetarian diet for ethical reasons.",
+                "A vegetarian diet aligns with the principles of ahimsa (non-violence).",
+                "Vegetarianism supports physical and mental health in yoga practice."
+            ],
+            "asana": 0,
+            "diet": 1,
+            "diet_name": "Vegetarian Diet"
+        },
+        {
+            "tag": "Yogic Diet",
+            "sno": 24,
+            "small_desc": "Understanding the principles of the yogic diet and its significance in yoga practice.",
+            "large_desc": "<p>The yogic diet is based on principles of purity and balance. This topic explores the importance of the yogic diet in supporting physical and mental health, as well as its role in enhancing the yoga journey.</p>",
+            "image_list": [
+                "yogic_diet.jpg",
+                "diet_balance.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Physical Effects",
+                "Vegetarianism",
+                "Bandhas",
+                "Mudras",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "The yogic diet focuses on purity and balance in food choices.",
+                "It supports the body's energy levels and mental clarity.",
+                "A balanced diet is essential for a successful yoga practice."
+            ],
+            "asana": 0,
+            "diet": 1,
+            "diet_name": "Yogic Diet"
+        },
+        {
+            "tag": "Bandhas",
+            "sno": 25,
+            "small_desc": "Exploring the yogic practice of Bandhas and their impact on energy flow.",
+            "large_desc": "<p>Bandhas are yogic locks or contractions that regulate the flow of energy in the body. This topic discusses the various Bandhas and their significance in enhancing pranic flow and overall well-being.</p>",
+            "image_list": [
+                "bandhas.jpg",
+                "energy_flow.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Physical Effects",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Mudras",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Bandhas are yogic contractions that control energy flow.",
+                "They enhance pranic flow and energy distribution in the body.",
+                "Bandhas are essential for advanced pranayama and meditation practices."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Mudras",
+            "sno": 26,
+            "small_desc": "Understanding Mudras, hand and body gestures that facilitate energy flow.",
+            "large_desc": "<p>Mudras are hand and body gestures used in yoga to channel energy and promote specific mental and physical states. This topic explores the various Mudras and their impact on yoga practice and meditation.</p>",
+            "image_list": [
+                "mudras.jpg",
+                "energy_channeling.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Physical Effects",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Bandhas",
+                "Physiological Effects"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Mudras are symbolic gestures used in yoga and meditation.",
+                "They facilitate energy flow and enhance mental concentration.",
+                "Mudras are a powerful tool for deepening the yoga and meditation experience."
+            ],
+            "asana": 0,
+            "diet": 0
+        },
+        {
+            "tag": "Physiological Effects",
+            "sno": 27,
+            "small_desc": "Exploring the physiological benefits of yoga, pranayama, and yogic practices.",
+            "large_desc": "<p>Yoga, pranayama, and other yogic practices have profound physiological effects on the body. This topic discusses how these practices improve overall health, reduce stress, and promote well-being.</p>",
+            "image_list": [
+                "physiological_effects.jpg",
+                "stress_reduction.jpg"
+            ],
+            "related": [
+                "Pranayama",
+                "Physical Effects",
+                "Vegetarianism",
+                "Yogic Diet",
+                "Bandhas",
+                "Mudras"
+            ],
+            "module_no": [
+                5
+            ],
+            "facts": [
+                "Yoga and pranayama reduce stress and improve mental health.",
+                "They enhance physical fitness, flexibility, and strength.",
+                "Regular yogic practices contribute to a balanced and healthy lifestyle."
+            ],
+            "asana": 0,
+            "diet": 0
+        }
+    ]
+}
