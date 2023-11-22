@@ -2,6 +2,11 @@
   --main-ab: #3a3a3a;
 }
 
+[data-bs-theme="light"] {
+  --main-ab: #d1d1d1;
+  --bs-info-rgb: 11, 95, 112 !important;
+}
+
 @font-face {
   font-family: christmas;
   src: url(../src/font/ttf/christmas_font_1.otf);
