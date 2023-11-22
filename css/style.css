@@ -4,7 +4,6 @@
 
 [data-bs-theme="light"] {
   --main-ab: #d1d1d1;
-  --bs-info-rgb: 11, 95, 112 !important;
 }
 
 @font-face {
