@@ -1,3 +1,7 @@
+[data-bs-theme="dark"] {
+  --main-ab: #3a3a3a;
+}
+
 @font-face {
   font-family: christmas;
   src: url(../src/font/ttf/christmas_font_1.otf);
