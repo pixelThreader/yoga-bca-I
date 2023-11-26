@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    // $("#auth").click();
+    $("#auth").click();
     $("#register_CodeCrafter").click(function () {
         let legendCodeCrafter = $("#codecrafterName").val();
         $(".legendCodeCrafter").text(legendCodeCrafter);
